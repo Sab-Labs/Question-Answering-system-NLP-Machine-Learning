@@ -1,12 +1,5 @@
 # Overview
-The Question Answering System is a tool designed to provide answers to user queries based on uploaded text documents and user input questions. It utilizes a pre-trained question-answering model and can also retrieve answers from a database based on similar questions.
-
-## System Design Graph
-
-![System_Graph](https://github.com/basel-ay/Question-Answering-System/assets/64821137/a3cf5fc0-f816-4a9b-b9c8-6130c1fa9b9f)
-
-View graph at Excalidraw: [link](https://excalidraw.com/#json=JfsHGJJcY4_CwG2IpvaYW,29apf2-RjXEH9dwOz0MbwQ)
-
+The Question Answering System is a tool designed to provide answers to user queries based on uploaded text documents and user input questions. It utilizes a pre-trained question-answering model and can also retrieve answers from a database based on similar questions
 
 ## Features
 
